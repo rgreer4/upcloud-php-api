@@ -1,7 +1,7 @@
 {
   "name": "upcloudltd/upcloud-php-api",
   "description": "UpCloud PHP API",
-  "keywords": ["php", "sdk", "api", "upcloud"],
+  "keywords": ["php", "sdk", "api", "upcloud", "fix"],
   "homepage": "https://github.com/UpCloudLtd/upcloud-php-api",
   "license": "MIT",
   "authors": [
